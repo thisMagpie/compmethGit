@@ -1,0 +1,4 @@
+particleNo 108 
+mass = 1.0
+epsilon = 1.0
+sigma = 0.001
